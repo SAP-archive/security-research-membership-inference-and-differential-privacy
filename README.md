@@ -1,3 +1,7 @@
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat) 
+
+This public repository is read-only and no longer maintained. For the latest sample code repositories, visit the [Samples](https://github.com/SAP-samples) organization.  
+
 # Membership Inference and Differential Privacy
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/security-research-membership-inference-and-differential-privacy)](https://api.reuse.software/info/github.com/SAP-samples/security-research-membership-inference-and-differential-privacy)
 
